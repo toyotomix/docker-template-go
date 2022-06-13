@@ -1,7 +1,7 @@
 # docker-template-go
 Goのdockerテンプレート。
 
-# イメージのビルド
+## イメージのビルド
 ```bash
 make build
 ```
