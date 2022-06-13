@@ -9,4 +9,4 @@ services:
     container_name: go-hello-world
     tty: true
     volumes:
-      - ./app:/go/app
+      - ./src:/app
