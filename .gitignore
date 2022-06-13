@@ -1,0 +1,5 @@
+
+app/dist/*
+!app/dist/.gitkeep
+
+app/src/go.mod
